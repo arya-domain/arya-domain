@@ -12,7 +12,7 @@
 <a href="https://twitter.com/@arya_domain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arya_domain" height="30" width="40" /></a>
 <a href="https://fb.com/aryan das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan das" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_a.r.y.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_a.r.y.a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arya_fake" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arya_fake" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/arya_fake" target="blank"><img align="center" src="https://github.com/arya-domain/arya-domain/blob/main/icons8-codechef-100.png" alt="arya_fake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arya-domain&show_icons=true&locale=en&layout=compact" alt="arya-domain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arya-domain&" alt="arya-domain" /></p>
+
