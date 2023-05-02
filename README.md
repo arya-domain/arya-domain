@@ -1,4 +1,4 @@
-<h1 align="center" class="h-14 bg-gradient-to-r from-purple-500 to-pink-500">Hi 👋, I'm Aryan Das</h1>
+<h1 align="center" class="bg-gradient-to-r from-purple-500 to-pink-500">Hi 👋, I'm Aryan Das</h1>
 <h3 align="center">A Passionate Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-domain&label=Profile%20views&color=0e75b6&style=flat" alt="arya-domain" /> </p>
