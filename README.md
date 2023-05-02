@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aryan Das</h1>
+<h1 align="center" style="background-color:green">Hi 👋, I'm Aryan Das</h1>
 <h3 align="center">A Passionate Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-domain&label=Profile%20views&color=0e75b6&style=flat" alt="arya-domain" /> </p>
 
-- 💬 Ask me about **React , Node.js , Solidity, Solana ,**
+- 💬 Ask me about **React , Node.js , WEB3, ML , DL, COMPETITIVE PROGRAMMING **
 
 - 📫 How to reach me **aryandas156@gmail.com**
 
