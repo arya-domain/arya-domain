@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-domain&label=Profile%20views&color=0e75b6&style=flat" alt="arya-domain" /> </p>
 
-- 💬 Ask me about **React , Node.js , WEB3, ML , DL, COMPETITIVE PROGRAMMING **
+- 💬 Ask me about React Node.js WEB3 ML  DL COMPETITIVE PROGRAMMING
 
 - 📫 How to reach me **aryandas156@gmail.com**
 
